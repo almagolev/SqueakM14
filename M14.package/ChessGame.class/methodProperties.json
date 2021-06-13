@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addLineAt:At:At:At:" : "AL 5/18/2021 14:02",
+		"addQueenAt:At:" : "AL 5/18/2021 14:02",
+		"initialize" : "AL 5/18/2021 14:58",
+		"newCellAt:At:" : "AL 5/18/2021 15:21",
+		"removeQueenAt:At:" : "AL 5/18/2021 14:04",
+		"updateSol:" : "AL 5/18/2021 20:05" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "M14",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"row",
+		"column",
+		"neighbor",
+		"chess",
+		"N" ],
+	"name" : "ChessQueen",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

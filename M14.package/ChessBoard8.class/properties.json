@@ -1,0 +1,15 @@
+{
+	"category" : "M14",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastQueen",
+		"chess" ],
+	"name" : "ChessBoard8",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

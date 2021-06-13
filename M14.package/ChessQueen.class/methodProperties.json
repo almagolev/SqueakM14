@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"advance" : "AL 5/18/2021 19:19",
+		"canAttack:x:" : "AL 5/18/2021 14:04",
+		"firstSolution" : "AL 5/18/2021 19:19",
+		"moveToNextNonAttackedRow" : "AL 4/25/2021 14:21",
+		"nextSolution" : "AL 5/18/2021 20:08",
+		"nextSolution:" : "AL 5/18/2021 20:04",
+		"result" : "AL 5/18/2021 16:13",
+		"setColumn:neighbor:aChess:aN:" : "AL 5/18/2021 14:07" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "M14",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ChessQueenTerminator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
